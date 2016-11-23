@@ -11,6 +11,13 @@ _Docker Container for Security and Penetration Testing_
 - [nmap](https://hub.docker.com/r/frapsoft/nmap/) - Portscanner
 - [scanssh](https://hub.docker.com/r/frapsoft/scanssh/) - Fast SSH server and open proxy scanner
 
+## Sniffer
+
+- [tcpdump](https://hub.docker.com/r/frapsoft/tcpdump/) - powerful command-line packet analyzer
+
+## Intrusion Detection
+
+- [snort](https://hub.docker.com/r/frapsoft/snort/) - Network Intrusion Detection & Prevention System
 
 ## Web
 
