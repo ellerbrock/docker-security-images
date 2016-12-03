@@ -1,10 +1,12 @@
 ![Docker Security](https://github.frapsoft.com/top/docker-security.jpg)
 
-# Docker Security Container
+# Docker Images Penetration Testing and IT Security
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/) [![Gitter](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
-_Docker Container for Security and Penetration Testing_
+_Docker Images for Security and Penetration Testing_
+
+>> **Update:** Docker Images now as well on [Quay.io](https://quay.io/user/ellerbrock) available. 
 
 ## Scanner
 
